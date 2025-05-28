@@ -1,3 +1,6 @@
 Write an article.
 Code
 halo
+nihao
+hello
+union
